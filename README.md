@@ -1,18 +1,33 @@
-### Hi there, I'm shinobe179 👋
+# Hi there, I'm shinobe179 👋
 
-<!--
-**shinobe179/shinobe179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security lover
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://img.shields.io/twitter/follow/shinobe179?label=Twitter&logo=twitter&style=flat)
+](http://twitter.com/shinobe179)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/shinobe179.png" alt="TryHackMe">
+
+## :heart: Interests
+
+- Cybersecurity
+- Cloud
+- Networking
+- Programming
+    - Python
+    - Go
+
+## :1st_place_medal: Ceritications
+
+- eJPT
+- CISSP
+- AWS
+    - Advanced Networking - Speciality
+    - Security - Speciality
+    - ~Solution Architect Associate~ (expired)
+- IPA
+    - Network Specialist
+    - Information Security Specialist
+- Cisco
+    - ~CCNP~ (expired)
+
+Thank you for reading!
